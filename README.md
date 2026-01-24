@@ -5,7 +5,7 @@
 [![Portfolio](https://img.shields.io/badge/🚀_Visit_My_Portfolio-Sameertech.me-2ea44f?style=for-the-badge&logo=safari)](https://www.sameertech.me/)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameer-khan-ug22/)
 
-Welcome to my GitHub! I specialize in architecting resilient cloud systems, automating pipelines, and managing containerized applications. My work focuses on **AWS**, **Kubernetes**, and **Infrastructure as Code (IaC)**.
+Welcome to my GitHub! I specialize in architecting resilient cloud systems, automating pipelines, and managing containerized applications. My work focuses on **AWS**, **Kubernetes**, **Github Actions** and **Infrastructure as Code (IaC)**.
 
 ---
 
