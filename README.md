@@ -51,14 +51,7 @@ Welcome to my GitHub! I specialize in architecting resilient cloud systems, auto
 
 ---
 
-### 📊 **GitHub Stats**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sameer-tec&show_icons=true&theme=tokyonight&hide_border=true" alt="Sameer-tec Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer-tec&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
 
 ### 📬 **Get in Touch**
 
