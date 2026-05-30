@@ -3,8 +3,6 @@
 # Hi there, I'm Sameer Khan! 👋
 
 **☁️ Cloud & DevOps Engineering Intern | IT Student at NSUT**
-
-[![Portfolio](https://img.shields.io/badge/🚀_Visit_My_Portfolio-Sameertech.me-2ea44f?style=for-the-badge&logo=safari)](https://www.sameertech.me/)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameer-khan-5081b3258/)
 [![Views](https://komarev.com/ghpvc/?username=Sameer-tec&color=blueviolet&style=for-the-badge)](https://github.com/Sameer-tec)
 
@@ -68,4 +66,4 @@
 - 📧 **Email:** [sameer.khan.ug22@nsut.ac.in](mailto:sameer.khan.ug22@nsut.ac.in)
 - 📍 **Location:** New Delhi, India
 - 💼 **LinkedIn:** [linkedin.com/in/sameer-khan-5081b3258](https://www.linkedin.com/in/sameer-khan-5081b3258/)
-- 🌐 **Portfolio Website:** [www.sameertech.me](https://www.sameertech.me/)
+
