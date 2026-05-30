@@ -65,7 +65,7 @@
 
 ### 📊 **GitHub Activity Landscape**
 
-<div align="left">
+<div align="Centre">
   <img src="https://github-readme-stats.vercel.app/api?username=Sameer-tec&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Sameer's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameer-tec&theme=radical&hide_border=true" alt="Sameer's GitHub Streak" width="48%" />
   <br>
