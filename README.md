@@ -61,18 +61,7 @@
 | **[2-Tier High-Availability AWS Architecture](https://github.com/Sameer-tec/AWS-Tier-2-Architecture-Terraform-IaC)** | Automated end-to-end cloud infrastructure provisioning via Terraform loops, slashing deployment time by **98%**. Isolated stateful multi-AZ RDS databases inside private network boundaries behind health-check-routed ALBs. | `AWS EC2` `Amazon RDS` `Terraform IaC` `ALB` |
 | **[Multi-Region VPC Peering & Routing](https://github.com/Sameer-tec/VPC-Peering-multi-region-mini-Project)** | Engineered a cross-region private VPC peering topology across non-overlapping CIDR blocks. Validated protocol-level routing paths via **AWS VPC Reachability Analyzer** to ensure private low-latency traffic without traversing the internet. | `AWS VPC` `Networking` `Security Groups` |
 
----
 
-### 📊 **GitHub Activity Landscape**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sameer-tec&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Sameer's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameer-tec&theme=radical&hide_border=true" alt="Sameer's GitHub Streak" width="48%" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer-tec&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
----
 
 ### 📬 **Connect With Me**
 
